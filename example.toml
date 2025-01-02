@@ -1,0 +1,3 @@
+target = "/tmp/shorty/main"
+start_in = "/tmp/shorty"
+arguments = ["-t", "Hello, World!"]

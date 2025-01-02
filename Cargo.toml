@@ -1,0 +1,11 @@
+[package]
+name = "exe-shortcut"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.95"
+ctrlc = "3.4.5"
+serde = { version = "1.0.217", features = ["derive"] }
+shared_child = "1.0.1"
+toml = "0.8.19"
